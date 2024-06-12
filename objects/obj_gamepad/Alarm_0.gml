@@ -1,0 +1,3 @@
+/// @description Detener vibracion
+
+stopRumbling()
