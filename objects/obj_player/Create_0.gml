@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description variables
 
-movementForce = 1000;
-jumpForce = 1000;
+movementForce = 20;
+jumpForce = 500;
