@@ -1,4 +1,4 @@
 /// @description variables
 
-movementForce = 20;
-jumpForce = 500;
+movementForce = 40;
+jumpForce = 1000;
