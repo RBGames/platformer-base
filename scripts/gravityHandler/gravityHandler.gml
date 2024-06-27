@@ -2,7 +2,7 @@
 function gravityHandler() {
 var initialGravity = 1;
 var verticalAcc = 0.1;
-var terminalVel = 5;
+var terminalVel = 7.5;
 
 var groundCol = instance_place(x, y + gravityForce, obj_block);
 
