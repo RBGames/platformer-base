@@ -1,5 +1,9 @@
 /// @description variables
-movementForce = 5;
+maxHorizontalSpeed = 5;
+horizontalAcc = 1;
+horizontalSpeed = 0;
+groundFriction = 0.5;
+airFriction = 1;
 verticalSpeed = 0;
 jumpForce = 8;
 gravityForce = 0;
