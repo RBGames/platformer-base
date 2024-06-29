@@ -7,3 +7,5 @@ airFriction = 1;
 verticalSpeed = 0;
 jumpForce = 8;
 gravityForce = 0;
+groundCol = false;
+ceilCol = false;
